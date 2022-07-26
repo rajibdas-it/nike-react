@@ -1,0 +1,27 @@
+:root {
+  --menu-font: "Roboto";
+  --banner-font: "Bebas Neue";
+}
+/* body {
+  
+  font-family: var(--menu-font);
+} */
+.menu-font {
+  font-family: var(--menu-font);
+  font-weight: 500;
+  font-size: 16px;
+  color: #3c3c3c;
+}
+
+.sec-bg {
+  background-color: #fff9f4;
+}
+.banner-text {
+  font-family: "Bebas Neue";
+  color: #fa804c;
+  text-transform: uppercase;
+}
+.banner-text-2 {
+  font-family: "Bebas Neue";
+  color: #363958;
+}
